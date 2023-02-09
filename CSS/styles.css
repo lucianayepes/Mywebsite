@@ -1,0 +1,33 @@
+h1{
+  color:#3CB371;
+  font-size: 30pt;
+
+
+}
+
+h2{
+  color:#2E8B57;
+  font-size: 20pt;
+  font-family: sans-serif;
+}
+
+
+p{
+  color:SeaGreen ;
+  font-size: 15pt;
+}
+
+body{
+  background-color: #FFF8DC;
+}
+
+h3{color:Lightgreen;
+  font-size: 15pt;
+  font-family:sans-serif;
+
+}
+
+hr{ border-color:Darkseagreen;
+ border-width: 6px;
+ border-style: dotted none none;
+ width: 95%}
